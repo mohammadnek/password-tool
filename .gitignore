@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Test cache
+.pytest_cache/
+
+# Generated password log (DO NOT commit — contains plaintext passwords)
+saved_password_list.txt
+
+# OS files
+.DS_Store
+Thumbs.db
