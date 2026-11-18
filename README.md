@@ -27,6 +27,6 @@ Built as an educational project to demonstrate secure password practices.
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/password-tool.git
+git clone https://github.com/mohammadnek/password-tool.git
 cd password-tool
 python main.py
